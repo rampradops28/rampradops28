@@ -74,23 +74,6 @@ const rampradop = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rampradops28&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 Current Focus Areas
-
-**🔥 Full Stack Development**
-- Frontend: React Advanced Patterns & Modern CSS
-- Backend: Node.js Performance & Database Design
-- Integration: AI/ML APIs & Intelligent Web Apps
-
-**🎨 Web Design Excellence**
-- Responsive Design & User Experience
-- Modern CSS Frameworks & Animations
-- Accessibility & Performance Optimization
-
-**🤖 AI Technology Integration**
-- Machine Learning APIs in Web Apps
-- Intelligent User Interfaces
-- Data-Driven Development
-
 ## 📫 Let's Connect
 
 <div align="center">
