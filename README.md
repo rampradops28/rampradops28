@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Rampradop 
 
 ## 🎯 About Me
-
-<table> 
-<td width="60%">
+ 
 
 - 🔭 I'm currently working on **building full-stack web applications with modern frameworks**
 - 🌱 I'm currently learning **advanced React patterns and Node.js optimization**
@@ -13,13 +11,9 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I debug with console.log() like a pro!**
 
-</td>
-<td width="40%">
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" />
-
-</td>
-</table>
+ 
 
 ## 🚀 What I Do
 
