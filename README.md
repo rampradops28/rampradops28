@@ -1,17 +1,8 @@
-# 👋 Hi, I'm Ram Prasad
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Design+Enthusiast;AI+Technology+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
-
-<div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
-</div>
+# 👋 Hi, I'm Rampradop 
 
 ## 🎯 About Me
 
-<table>
-<tr>
+<table> 
 <td width="60%">
 
 - 🔭 I'm currently working on **building full-stack web applications with modern frameworks**
@@ -28,7 +19,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" />
 
 </td>
-</tr>
 </table>
 
 ## 🚀 What I Do
@@ -36,7 +26,7 @@
 <div align="left" width="50%">
 
 ```javascript
-const ramPrasad = {
+const rampradop = {
     role: "Full Stack Developer",
     passions: ["Web Design", "AI Technologies", "Problem Solving"],
     currentFocus: "Building scalable web applications",
@@ -45,17 +35,9 @@ const ramPrasad = {
 };
 ```
 
-</div>
-
-<div align="right" width="50%">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="AI Animation" />
-</div>
+</div> 
 
 ## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="60%">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -74,15 +56,7 @@ const ramPrasad = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-<td width="40%">
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Web Development Animation" />
-
-</td>
-</tr>
-</table>
+ 
 
 ## 📊 GitHub Stats
 
@@ -94,10 +68,6 @@ const ramPrasad = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampradops28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rampradops28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -105,10 +75,6 @@ const ramPrasad = {
 </div>
 
 ## 🎯 Current Focus Areas
-
-<table>
-<tr>
-<td width="60%">
 
 **🔥 Full Stack Development**
 - Frontend: React Advanced Patterns & Modern CSS
@@ -124,27 +90,6 @@ const ramPrasad = {
 - Machine Learning APIs in Web Apps
 - Intelligent User Interfaces
 - Data-Driven Development
-
-</td>
-<td width="40%">
-
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="Developer Animation" />
-
-</td>
-</tr>
-</table>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🚀 Project Highlights
-- **Modern Web Applications**: Building responsive, user-friendly interfaces
-- **Full-Stack Solutions**: End-to-end development with modern tech stack
-- **Open Source Contributions**: Contributing to the developer community
-- **AI Integration**: Exploring machine learning in web development
-
-</div>
 
 ## 📫 Let's Connect
 
