@@ -1,10 +1,18 @@
-# 👋 Hi, I'm Rampradop
+# 👋 Hi, I'm Ram Prasad
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Design+Enthusiast;AI+Technology+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Design+Enthusiast;AI+Technology+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 </div>
 
 ## 🎯 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 - 🔭 I'm currently working on **building full-stack web applications with modern frameworks**
 - 🌱 I'm currently learning **advanced React patterns and Node.js optimization**
@@ -14,10 +22,21 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I debug with console.log() like a pro!**
 
+</td>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" />
+
+</td>
+</tr>
+</table>
+
 ## 🚀 What I Do
 
+<div align="left" width="50%">
+
 ```javascript
-const rampradop = {
+const ramPrasad = {
     role: "Full Stack Developer",
     passions: ["Web Design", "AI Technologies", "Problem Solving"],
     currentFocus: "Building scalable web applications",
@@ -26,7 +45,17 @@ const rampradop = {
 };
 ```
 
+</div>
+
+<div align="right" width="50%">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="AI Animation" />
+</div>
+
 ## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="60%">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,6 +75,15 @@ const rampradop = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</td>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Web Development Animation" />
+
+</td>
+</tr>
+</table>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -57,13 +95,7 @@ const rampradop = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampradops28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rampradops28&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=rampradops28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Graph
@@ -72,22 +104,39 @@ const rampradop = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rampradops28&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 Current Focus
+## 🎯 Current Focus Areas
 
-```mermaid
-graph TD
-    A[Full Stack Development] --> B[Frontend Mastery]
-    A --> C[Backend Optimization]
-    B --> D[React Advanced Patterns]
-    B --> E[Modern CSS Techniques]
-    C --> F[Node.js Performance]
-    C --> G[Database Design]
-    A --> H[AI/ML Integration]
-    H --> I[Machine Learning APIs]
-    H --> J[Intelligent Web Apps]
-```
+<table>
+<tr>
+<td width="60%">
+
+**🔥 Full Stack Development**
+- Frontend: React Advanced Patterns & Modern CSS
+- Backend: Node.js Performance & Database Design
+- Integration: AI/ML APIs & Intelligent Web Apps
+
+**🎨 Web Design Excellence**
+- Responsive Design & User Experience
+- Modern CSS Frameworks & Animations
+- Accessibility & Performance Optimization
+
+**🤖 AI Technology Integration**
+- Machine Learning APIs in Web Apps
+- Intelligent User Interfaces
+- Data-Driven Development
+
+</td>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="Developer Animation" />
+
+</td>
+</tr>
+</table>
 
 ## 🌟 Featured Projects
+
+<div align="center">
 
 ### 🚀 Project Highlights
 - **Modern Web Applications**: Building responsive, user-friendly interfaces
@@ -95,12 +144,14 @@ graph TD
 - **Open Source Contributions**: Contributing to the developer community
 - **AI Integration**: Exploring machine learning in web development
 
+</div>
+
 ## 📫 Let's Connect
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rampradops28@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rampradops28)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rampradop28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ram-pradop-b81571259)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rampradops28)
 
 </div>
