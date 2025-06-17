@@ -3,6 +3,7 @@
 Here's my [portfolio](https://portfolio-mine-mu.vercel.app/)
 
  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" align="right" width="300" height="190" />
+  
 🔭 I'm currently working on building full-stack web applications with modern frameworks<br>🌱 I'm currently learning advanced React patterns and Node.js optimization<br>👯 I'm looking to collaborate on open-source projects<br>💬 Ask me about React, Node.js, or web development best practices<br>📫 How to reach me: rampradops28@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I debug with console.log() like a pro!
 
 ## 🌐 Socials:
