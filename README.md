@@ -48,9 +48,8 @@ const rampradop = {
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rampradops28&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rampradops28&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rampradops28&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rampradops28&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rampradops28&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
