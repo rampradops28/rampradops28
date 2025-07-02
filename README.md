@@ -56,10 +56,12 @@ const rampradop = {
 
 ## 🔝 Top Contributed Repo
 
+<!-- Replace REPO_NAME with your best repo -->
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rampradops28&repo=REPO_NAME)
 
 ## 🐍 Contribution Graph
 
+<!-- Snake animation of your contributions -->
 ![Contribution Snake](https://github.com/rampradops28/rampradops28/blob/output/github-contribution-grid-snake.svg)
 
 ## 💭 Quote
