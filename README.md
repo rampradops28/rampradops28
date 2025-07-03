@@ -54,15 +54,14 @@ const rampradop = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rampradops28&layout=compact)
 
 
-## 🔝 Top Contributed Repo
+## 📈 GitHub Contribution Graph
 
-<!-- Replace REPO_NAME with your best repo -->
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rampradops28&repo=REPO_NAME)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rampradops28&theme=react-dark&hide_border=true)
 
-## 🐍 Contribution Graph
+## 🐍 GitHub Contribution Snake
 
-<!-- Snake animation of your contributions -->
-![Contribution Snake](https://github.com/rampradops28/rampradops28/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/rampradops28/rampradops28/output/github-contribution-grid-snake.svg)
+
 
 ## 💭 Quote
 
